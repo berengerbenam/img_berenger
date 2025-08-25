@@ -1,0 +1,18 @@
+
+Effectivement, sur la nouvelle interface de GitHub, le bouton "Raw" n'est pas toujours immédiatement visible pour tous les types de fichiers. Ne vous inquiétez pas, il existe une méthode très simple pour obtenir l'URL.
+
+Le bouton que vous cherchez se trouve généralement dans une barre d'outils au-dessus de l'image. Sur votre capture d'écran, on peut voir l'option "History" mais pas le bouton "Raw".
+
+Comment obtenir l'URL de votre image
+Sur la page de votre fichier image (comme sur la capture d'écran que vous avez partagée).
+
+Dans la barre d'adresse de votre navigateur, modifiez l'URL actuelle.
+
+L'URL de la page est actuellement : https://github.com/berengerbenam/img_berenger/blob/main/logo_Berenger.png
+
+Il suffit de remplacer le segment /blob/ par /raw/.
+
+L'URL directe de votre image sera alors :
+https://github.com/berengerbenam/img_berenger/raw/main/logo_Berenger.png
+
+Cette URL vous mènera directement au fichier brut de l'image, sans l'interface de GitHub.
